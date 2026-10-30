@@ -1,0 +1,604 @@
+[
+  [
+    "Naruto",
+    "Madara Uchiha",
+    "assault",
+    "🔥 Majestic Destroyer Flame",
+    "Madara releases an overwhelming fire technique."
+  ],
+  [
+    "Naruto",
+    "Kakashi Hatake",
+    "assault",
+    "⚡ Lightning Blade",
+    "Kakashi strikes with lightning chakra."
+  ],
+  [
+    "Naruto",
+    "Minato Namikaze",
+    "enhance",
+    "⚡ Flying Raijin",
+    "Minato attacks with teleportation speed."
+  ],
+  [
+    "Naruto",
+    "Hinata Hyuga",
+    "guard",
+    "🛡️ Gentle Fist Guard",
+    "Hinata anticipates the opposing strike."
+  ],
+  [
+    "Naruto",
+    "Pain",
+    "disrupt",
+    "🌌 Shinra Tensei",
+    "Pain repels and disrupts the enemy."
+  ],
+  [
+    "Naruto",
+    "Gaara",
+    "guard",
+    "🏜️ Sand Shield",
+    "Gaara intercepts attacks with sand."
+  ],
+  [
+    "Naruto",
+    "Jiraiya",
+    "enhance",
+    "🐸 Sage Mode",
+    "Jiraiya amplifies his fighting strength."
+  ],
+  [
+    "One Piece",
+    "Sanji Vinsmoke",
+    "enhance",
+    "🔥 Diable Jambe",
+    "Sanji powers up his burning kicks."
+  ],
+  [
+    "One Piece",
+    "Portgas D. Ace",
+    "assault",
+    "🔥 Fire Fist",
+    "Ace strikes with blazing flames."
+  ],
+  [
+    "One Piece",
+    "Shanks",
+    "disrupt",
+    "👑 Conqueror's Haki",
+    "Shanks overwhelms the opponent's resolve."
+  ],
+  [
+    "One Piece",
+    "Trafalgar D. Water Law",
+    "disrupt",
+    "🌀 ROOM",
+    "Law manipulates the opponent's space."
+  ],
+  [
+    "One Piece",
+    "Nico Robin",
+    "disrupt",
+    "🌺 Clutch",
+    "Robin restricts the opponent's movement."
+  ],
+  [
+    "One Piece",
+    "Usopp",
+    "assault",
+    "🎯 Pop Green",
+    "Usopp launches a precision plant attack."
+  ],
+  [
+    "One Piece",
+    "Franky",
+    "assault",
+    "💥 Radical Beam",
+    "Franky fires his signature beam."
+  ],
+  [
+    "One Piece",
+    "Boa Hancock",
+    "disrupt",
+    "💗 Mero Mero",
+    "Hancock disrupts the opponent's actions."
+  ],
+  [
+    "Bleach",
+    "Sosuke Aizen",
+    "disrupt",
+    "🪞 Kyoka Suigetsu",
+    "Aizen misleads the opponent's senses."
+  ],
+  [
+    "Bleach",
+    "Rukia Kuchiki",
+    "assault",
+    "❄️ Sode no Shirayuki",
+    "Rukia releases an icy strike."
+  ],
+  [
+    "Bleach",
+    "Orihime Inoue",
+    "recover",
+    "💚 Soten Kisshun",
+    "Orihime reverses incoming harm."
+  ],
+  [
+    "Bleach",
+    "Kenpachi Zaraki",
+    "enhance",
+    "⚔️ Berserker's Will",
+    "Kenpachi drives himself further in battle."
+  ],
+  [
+    "Jujutsu Kaisen",
+    "Yuji Itadori",
+    "assault",
+    "💥 Black Flash",
+    "Yuji lands a focused cursed-energy blow."
+  ],
+  [
+    "Jujutsu Kaisen",
+    "Toji Fushiguro",
+    "assault",
+    "⚔️ Heavenly Restriction",
+    "Toji attacks with extraordinary physical force."
+  ],
+  [
+    "Jujutsu Kaisen",
+    "Nobara Kugisaki",
+    "disrupt",
+    "🔨 Resonance",
+    "Nobara's cursed technique weakens the enemy."
+  ],
+  [
+    "Jujutsu Kaisen",
+    "Maki Zenin",
+    "assault",
+    "⚔️ Heavenly Restriction",
+    "Maki strikes with exceptional physical power."
+  ],
+  [
+    "Jujutsu Kaisen",
+    "Kento Nanami",
+    "assault",
+    "📐 Ratio Technique",
+    "Nanami targets a calculated weak point."
+  ],
+  [
+    "Jujutsu Kaisen",
+    "Suguru Geto",
+    "support",
+    "👻 Cursed Spirit Manipulation",
+    "Geto's spirits aid following teammates."
+  ],
+  [
+    "Demon Slayer",
+    "Kyoujurou Rengoku",
+    "assault",
+    "🔥 Flame Breathing",
+    "Rengoku launches a blazing sword attack."
+  ],
+  [
+    "Demon Slayer",
+    "Zenitsu Agatsuma",
+    "enhance",
+    "⚡ Thunderclap and Flash",
+    "Zenitsu unleashes a burst of speed."
+  ],
+  [
+    "Demon Slayer",
+    "Inosuke Hashibira",
+    "assault",
+    "🐗 Beast Breathing",
+    "Inosuke attacks with wild twin blades."
+  ],
+  [
+    "Demon Slayer",
+    "Giyu Tomioka",
+    "guard",
+    "🌊 Dead Calm",
+    "Giyu deflects an incoming attack."
+  ],
+  [
+    "Demon Slayer",
+    "Muzan Kibutsuji",
+    "recover",
+    "💚 Demon Regeneration",
+    "Muzan heals his injuries."
+  ],
+  [
+    "Demon Slayer",
+    "Akaza",
+    "enhance",
+    "👊 Destructive Death",
+    "Akaza sharpens his close-range attacks."
+  ],
+  [
+    "Attack on Titan",
+    "Mikasa Ackerman",
+    "assault",
+    "⚔️ ODM Assault",
+    "Mikasa executes a precision aerial strike."
+  ],
+  [
+    "Attack on Titan",
+    "Armin Arlert",
+    "support",
+    "🧠 Tactical Strategy",
+    "Armin's plan strengthens following allies."
+  ],
+  [
+    "Attack on Titan",
+    "Erwin Smith",
+    "support",
+    "📢 Charge Forward",
+    "Erwin inspires those who fight after him."
+  ],
+  [
+    "Attack on Titan",
+    "Reiner Braun",
+    "guard",
+    "🛡️ Armored Titan",
+    "Reiner braces against a heavy attack."
+  ],
+  [
+    "Dragon Ball",
+    "Gohan",
+    "enhance",
+    "🔥 Potential Unleashed",
+    "Gohan unlocks a burst of hidden power."
+  ],
+  [
+    "Dragon Ball",
+    "Frieza",
+    "assault",
+    "💥 Death Beam",
+    "Frieza fires a piercing energy blast."
+  ],
+  [
+    "Dragon Ball",
+    "Piccolo",
+    "assault",
+    "💥 Special Beam Cannon",
+    "Piccolo channels a focused energy attack."
+  ],
+  [
+    "Dragon Ball",
+    "Beerus",
+    "disrupt",
+    "🌌 Hakai",
+    "Beerus suppresses an opponent's power."
+  ],
+  [
+    "Dragon Ball",
+    "Broly",
+    "enhance",
+    "🔥 Limitless Rage",
+    "Broly surges with fighting energy."
+  ],
+  [
+    "My Hero Academia",
+    "Izuku Midoriya",
+    "enhance",
+    "💥 One For All",
+    "Deku channels One For All through his body."
+  ],
+  [
+    "My Hero Academia",
+    "Katsuki Bakugo",
+    "assault",
+    "💣 Explosion",
+    "Bakugo unleashes a concentrated explosion."
+  ],
+  [
+    "My Hero Academia",
+    "Shoto Todoroki",
+    "assault",
+    "❄️🔥 Half-Cold Half-Hot",
+    "Todoroki unleashes ice and fire."
+  ],
+  [
+    "My Hero Academia",
+    "Toshinori Yagi",
+    "assault",
+    "🇺🇸 Detroit Smash",
+    "All Might throws a tremendous punch."
+  ],
+  [
+    "My Hero Academia",
+    "Ochako Uraraka",
+    "disrupt",
+    "🌠 Zero Gravity",
+    "Uraraka disrupts the enemy's positioning."
+  ],
+  [
+    "Chainsaw Man",
+    "Denji",
+    "assault",
+    "🪚 Chainsaw Rampage",
+    "Denji charges in with revving chainsaws."
+  ],
+  [
+    "Chainsaw Man",
+    "Makima",
+    "disrupt",
+    "👁️ Control",
+    "Makima imposes her will upon the target."
+  ],
+  [
+    "Chainsaw Man",
+    "Power",
+    "enhance",
+    "🩸 Blood Hammer",
+    "Power empowers her blood-formed weapon."
+  ],
+  [
+    "Solo Leveling",
+    "Sung Jin-Woo",
+    "support",
+    "👑 Shadow Monarch",
+    "Jin-Woo's shadows strengthen subsequent allies."
+  ],
+  [
+    "Solo Leveling",
+    "Cha Hae-In",
+    "assault",
+    "⚔️ Sword Dance",
+    "Cha Hae-In unleashes a rapid sword strike."
+  ],
+  [
+    "Solo Leveling",
+    "Igris",
+    "guard",
+    "🛡️ Knight's Resolve",
+    "Igris braces to intercept an attack."
+  ],
+  [
+    "One Punch Man",
+    "Saitama",
+    "assault",
+    "👊 Serious Punch",
+    "Saitama throws a decisive punch."
+  ],
+  [
+    "One Punch Man",
+    "Genos",
+    "assault",
+    "🔥 Incineration Cannon",
+    "Genos fires a blast from his arm cannons."
+  ],
+  [
+    "One Punch Man",
+    "Tatsumaki",
+    "disrupt",
+    "🌀 Psychokinesis",
+    "Tatsumaki restrains the enemy telekinetically."
+  ],
+  [
+    "One Punch Man",
+    "Garou",
+    "enhance",
+    "🥋 Flowing Water",
+    "Garou reads his opponent and refines his strikes."
+  ],
+  [
+    "Hunter x Hunter",
+    "Killua Zoldyck",
+    "enhance",
+    "⚡ Godspeed",
+    "Killua uses electric speed to amplify his action."
+  ],
+  [
+    "Hunter x Hunter",
+    "Gon Freecss",
+    "assault",
+    "👊 Jajanken",
+    "Gon channels aura into a heavy strike."
+  ],
+  [
+    "Hunter x Hunter",
+    "Kurapika",
+    "disrupt",
+    "⛓️ Chain Jail",
+    "Kurapika restricts an opponent's moves."
+  ],
+  [
+    "Hunter x Hunter",
+    "Hisoka Morow",
+    "disrupt",
+    "🃏 Bungee Gum",
+    "Hisoka interferes with enemy movement."
+  ],
+  [
+    "Black Clover",
+    "Asta",
+    "disrupt",
+    "⚔️ Anti-Magic",
+    "Asta suppresses the enemy's power."
+  ],
+  [
+    "Black Clover",
+    "Yuno",
+    "enhance",
+    "🌪️ Spirit Dive",
+    "Yuno merges with wind spirit magic."
+  ],
+  [
+    "Black Clover",
+    "Noelle Silva",
+    "assault",
+    "🌊 Sea Dragon's Roar",
+    "Noelle releases a massive water blast."
+  ],
+  [
+    "Fairy Tail",
+    "Natsu Dragneel",
+    "assault",
+    "🔥 Fire Dragon's Roar",
+    "Natsu unleashes dragon-slayer flames."
+  ],
+  [
+    "Fairy Tail",
+    "Erza Scarlet",
+    "enhance",
+    "⚔️ Requip",
+    "Erza switches into powerful battle armor."
+  ],
+  [
+    "Fairy Tail",
+    "Wendy Marvell",
+    "support",
+    "🍃 Sky Dragon Enchantment",
+    "Wendy bolsters allies who follow her."
+  ],
+  [
+    "JoJo's Bizarre Adventure",
+    "Jotaro Kujo",
+    "assault",
+    "👊 Star Platinum",
+    "Jotaro attacks with his Stand's rapid punches."
+  ],
+  [
+    "JoJo's Bizarre Adventure",
+    "Dio Brando",
+    "disrupt",
+    "🕰️ The World",
+    "Dio disrupts his opponent's timing."
+  ],
+  [
+    "JoJo's Bizarre Adventure",
+    "Giorno Giovanna",
+    "recover",
+    "🌸 Gold Experience",
+    "Giorno restores vitality through his Stand."
+  ],
+  [
+    "Tokyo Ghoul",
+    "Ken Kaneki",
+    "enhance",
+    "🩸 Kagune Awakening",
+    "Kaneki releases his ghoul's power."
+  ],
+  [
+    "Blue Lock",
+    "Yoichi Isagi",
+    "enhance",
+    "⚽ Meta Vision",
+    "Isagi calculates his next breakthrough play."
+  ],
+  [
+    "Blue Lock",
+    "Seishiro Nagi",
+    "enhance",
+    "⚽ First Touch",
+    "Nagi turns his exceptional control into an advantage."
+  ],
+  [
+    "Haikyuu!!",
+    "Shouyou Hinata",
+    "assault",
+    "🏐 Quick Attack",
+    "Hinata jumps into a lightning-fast offensive play."
+  ],
+  [
+    "Haikyuu!!",
+    "Tobio Kageyama",
+    "support",
+    "🏐 Perfect Set",
+    "Kageyama sets up teammates for later action."
+  ],
+  [
+    "Genshin Impact",
+    "Raiden Shogun",
+    "assault",
+    "⚡ Musou no Hitotachi",
+    "Raiden delivers an electro sword strike."
+  ],
+  [
+    "Genshin Impact",
+    "Zhongli",
+    "guard",
+    "🛡️ Jade Shield",
+    "Zhongli shields against incoming strikes."
+  ],
+  [
+    "Genshin Impact",
+    "Nahida",
+    "support",
+    "🌱 Shrine of Maya",
+    "Nahida strengthens future allies with dendro power."
+  ],
+  [
+    "Honkai: Star Rail",
+    "Kafka",
+    "disrupt",
+    "⚡ Spirit Whisper",
+    "Kafka manipulates the enemy's momentum."
+  ],
+  [
+    "Honkai: Star Rail",
+    "Silver Wolf",
+    "disrupt",
+    "🎮 System Hack",
+    "Silver Wolf interferes with an enemy's combat output."
+  ],
+  [
+    "Honkai Impact 3rd",
+    "Kiana Kaslana",
+    "enhance",
+    "🔥 Herrscher Burst",
+    "Kiana releases Herrscher energy to amplify her attack."
+  ],
+  [
+    "Zenless Zone Zero",
+    "Burnice White",
+    "assault",
+    "🔥 Nitro-Fuel Inferno",
+    "Burnice sets the field ablaze with fuel and flame."
+  ],
+  [
+    "Zenless Zone Zero",
+    "Ellen Joe",
+    "assault",
+    "❄️ Glacial Slash",
+    "Ellen strikes with an icy blade."
+  ],
+  [
+    "KonoSuba",
+    "Megumin",
+    "assault",
+    "💥 Explosion",
+    "Megumin unleashes one devastating explosion."
+  ],
+  [
+    "KonoSuba",
+    "Aqua",
+    "recover",
+    "💚 Sacred Healing",
+    "Aqua's divine magic restores power."
+  ],
+  [
+    "Steins;Gate",
+    "Rintaro Okabe",
+    "disrupt",
+    "⏳ Reading Steiner",
+    "Okabe anticipates an altered timeline."
+  ],
+  [
+    "DC Comics",
+    "Batman",
+    "guard",
+    "🦇 Gotham Contingency",
+    "Batman prepares a defensive countermeasure."
+  ],
+  [
+    "DC Comics",
+    "Tim Drake",
+    "guard",
+    "🦇 Tactical Counter",
+    "Tim anticipates an incoming attack."
+  ]
+]

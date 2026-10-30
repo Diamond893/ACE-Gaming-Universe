@@ -1,0 +1,4816 @@
+[
+  {
+    "series": "One Piece",
+    "name": "Monkey D. Luffy",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Roronoa Zoro",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Nami",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Nico Robin",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Sanji Vinsmoke",
+    "aliases": [
+      "Vinsmoke Sanji",
+      "Sanji"
+    ]
+  },
+  {
+    "series": "One Piece",
+    "name": "Usopp",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Chopper Tony Tony",
+    "aliases": [
+      "Tony Tony Chopper",
+      "Chopper"
+    ]
+  },
+  {
+    "series": "One Piece",
+    "name": "Franky",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Brook",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Jinbei",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Shanks",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Portgas D. Ace",
+    "aliases": [
+      "Ace Portgas D."
+    ]
+  },
+  {
+    "series": "One Piece",
+    "name": "Gol D. Roger",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Boa Hancock",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Buggy",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Trafalgar D. Water Law",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Mihawk Dracule",
+    "aliases": [
+      "Dracule Mihawk"
+    ]
+  },
+  {
+    "series": "One Piece",
+    "name": "Charlotte Katakuri",
+    "aliases": [
+      "Katakuri Charlotte"
+    ]
+  },
+  {
+    "series": "One Piece",
+    "name": "Kaido",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Marshall D. Teach",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Killer",
+    "aliases": []
+  },
+  {
+    "series": "One Piece",
+    "name": "Donquixote Doflamingo",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Naruto Uzumaki",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Sasuke Uchiha",
+    "aliases": [
+      "Sasuke"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Sakura Haruno",
+    "aliases": [
+      "Sakura"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Kakashi Hatake",
+    "aliases": [
+      "Kakashi"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Hinata Hyuga",
+    "aliases": [
+      "Hinata"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Itachi Uchiha",
+    "aliases": [
+      "Itachi"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Madara Uchiha",
+    "aliases": [
+      "Madara"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Pain",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Obito Uchiha",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Minato Namikaze",
+    "aliases": [
+      "Minato"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Jiraiya",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Tsunade Senju",
+    "aliases": [
+      "Tsunade"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Orochimaru",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Gaara",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Shikamaru Nara",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Rock Lee",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Neji Hyuuga",
+    "aliases": [
+      "Neji",
+      "Neji Hyuga"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Kurama",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Might Guy",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Hashirama Senju",
+    "aliases": [
+      "Hashirama"
+    ]
+  },
+  {
+    "series": "Naruto",
+    "name": "Konan",
+    "aliases": []
+  },
+  {
+    "series": "Naruto",
+    "name": "Ino Yamanaka",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Boruto Uzumaki",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Sarada Uchiha",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Mitsuki",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Kawaki",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Himawari Uzumaki",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Momoshiki Otsutsuki",
+    "aliases": []
+  },
+  {
+    "series": "Boruto",
+    "name": "Code",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Goku",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Vegeta",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Gohan",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Trunks",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Future Trunks",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Bulma",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Krillin",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Piccolo",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Frieza",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Cell",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Broly",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Beerus",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Whis",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Gogeta",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Vegito",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Goten",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Gotenks",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Android 18",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Android 17",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Master Roshi",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Bardock",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Goku Black",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Jiren",
+    "aliases": []
+  },
+  {
+    "series": "Dragon Ball",
+    "name": "Hit",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Ichigo Kurosaki",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Rukia Kuchiki",
+    "aliases": [
+      "Rukia"
+    ]
+  },
+  {
+    "series": "Bleach",
+    "name": "Orihime Inoue",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Uryu Ishida",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Renji Abarai",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Sosuke Aizen",
+    "aliases": [
+      "Aizen Sosuke"
+    ]
+  },
+  {
+    "series": "Bleach",
+    "name": "Byakuya Kuchiki",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Yoruichi Shihoin",
+    "aliases": [
+      "Yoruichi Shihouin"
+    ]
+  },
+  {
+    "series": "Bleach",
+    "name": "Kisuke Urahara",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Kenpachi Zaraki",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Toshiro Hitsugaya",
+    "aliases": [
+      "Hitsugaya Toshiro"
+    ]
+  },
+  {
+    "series": "Bleach",
+    "name": "Rangiku Matsumoto",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Grimmjow Jaegerjaquez",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Ulquiorra Cifer",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Gin Ichimaru",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Shunsui Kyoraku",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Yhwach",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Retsu Unohana",
+    "aliases": []
+  },
+  {
+    "series": "Bleach",
+    "name": "Kukaku Shiba",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Gojo Satoru",
+    "aliases": [
+      "Gojo"
+    ]
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Yuji Itadori",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Ryomen Sukuna",
+    "aliases": [
+      "Sukuna"
+    ]
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Megumi Fushiguro",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Nobara Kugisaki",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Toji Fushiguro",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Kento Nanami",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Suguru Geto",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Maki Zenin",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Yuuta Okkotsu",
+    "aliases": [
+      "Yuta Okkotsu"
+    ]
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Choso",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Aoi Todo",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Mahito",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Toge Inumaki",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Yuki Tsukumo",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Rika Orimoto",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Mei Mei",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Panda",
+    "aliases": []
+  },
+  {
+    "series": "Jujutsu Kaisen",
+    "name": "Hanami",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Tanjiro Kamado",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Nezuko Kamado",
+    "aliases": [
+      "Nezuko"
+    ]
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Zenitsu Agatsuma",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Inosuke Hashibira",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Kyoujurou Rengoku",
+    "aliases": [
+      "Kyojuro Rengoku"
+    ]
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Shinobu Kocho",
+    "aliases": [
+      "Shinobu"
+    ]
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Giyu Tomioka",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Mitsuri Kanroji",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Tengen Uzui",
+    "aliases": [
+      "Uzui Tengen"
+    ]
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Muichiro Tokito",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Sanemi Shinazugawa",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Obanai Iguro",
+    "aliases": [
+      "Iguro Obanai"
+    ]
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Gyomei Himejima",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Kanao Tsuyuri",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Muzan Kibutsuji",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Akaza",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Douma",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Yoriichi Tsugikuni",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Rui",
+    "aliases": []
+  },
+  {
+    "series": "Demon Slayer",
+    "name": "Genya Shinazugawa",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Eren Yeager",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Mikasa Ackerman",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Armin Arlert",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Levi Ackerman",
+    "aliases": [
+      "Levi"
+    ]
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Erwin Smith",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Reiner Braun",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Annie Leonhart",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Bertholdt Hoover",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Historia Reiss",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Hange Zoe",
+    "aliases": [
+      "Hange Zoë"
+    ]
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Jean Kirstein",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Sasha Blouse",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Connie Springer",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Zeke Yeager",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Pieck Finger",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Ymir",
+    "aliases": []
+  },
+  {
+    "series": "Attack on Titan",
+    "name": "Grisha Jaeger",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Izuku Midoriya",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Katsuki Bakugo",
+    "aliases": [
+      "Bakugo Katsuki"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Shoto Todoroki",
+    "aliases": [
+      "Todoroki Shoto"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Ochako Uraraka",
+    "aliases": [
+      "Uraraka"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Toshinori Yagi",
+    "aliases": [
+      "All Might"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Tomura Shigaraki",
+    "aliases": [
+      "Tomura"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Himiko Toga",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Shouta Aizawa",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Enji Todoroki",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Tenya Iida",
+    "aliases": [
+      "Tenya"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Eijiro Kirishima",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Fumikage Tokoyami",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Eri",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Mirio Togata",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Hitoshi Shinso",
+    "aliases": [
+      "Hitoshi Shinsou"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Momo Yaoyorozu",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Tsuyu Asui",
+    "aliases": [
+      "Tsuyu"
+    ]
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Denki Kaminari",
+    "aliases": []
+  },
+  {
+    "series": "My Hero Academia",
+    "name": "Kyoka Jiro",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Denji",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Makima",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Power",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Aki Hayakawa",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Reze",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Pochita",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Kobeni Higashiyama",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Himeno",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Kishibe",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Angel Devil",
+    "aliases": []
+  },
+  {
+    "series": "Chainsaw Man",
+    "name": "Katana Man",
+    "aliases": []
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Sung Jin-Woo",
+    "aliases": [
+      "Sung jin-Woo"
+    ]
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Cha Hae-In",
+    "aliases": [
+      "Cha Hae In"
+    ]
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Igris",
+    "aliases": []
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Beru",
+    "aliases": []
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Yoo Jin-Ho",
+    "aliases": [
+      "Jin-Ho Yoo"
+    ]
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Baek Yoon-Ho",
+    "aliases": []
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Antares",
+    "aliases": []
+  },
+  {
+    "series": "Solo Leveling",
+    "name": "Iron",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Saitama",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Genos",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Garou",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "King",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Tatsumaki",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Fubuki",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Boros",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Mumen Rider",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Bang",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Sonic",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Metal Bat",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Flashy Flash",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Zombieman",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Drive Knight",
+    "aliases": []
+  },
+  {
+    "series": "One Punch Man",
+    "name": "Sweet Mask",
+    "aliases": []
+  },
+  {
+    "series": "Death Note",
+    "name": "Light Yagami",
+    "aliases": [
+      "Light"
+    ]
+  },
+  {
+    "series": "Death Note",
+    "name": "L Lawliet",
+    "aliases": []
+  },
+  {
+    "series": "Death Note",
+    "name": "Misa Amane",
+    "aliases": []
+  },
+  {
+    "series": "Death Note",
+    "name": "Ryuk",
+    "aliases": []
+  },
+  {
+    "series": "Death Note",
+    "name": "Rem",
+    "aliases": []
+  },
+  {
+    "series": "Death Note",
+    "name": "Mihael Keehl",
+    "aliases": [
+      "Mello"
+    ]
+  },
+  {
+    "series": "Death Note",
+    "name": "Nate River",
+    "aliases": []
+  },
+  {
+    "series": "Death Note",
+    "name": "Teru Mikami",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Gon Freecss",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Killua Zoldyck",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Hisoka Morow",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Kurapika",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Leorio Paradinight",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Chrollo Lucilfer",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Meruem",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Neferpitou",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Alluka Zoldyck",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Illumi Zoldyck",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Isaac Netero",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Kite",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Razor",
+    "aliases": []
+  },
+  {
+    "series": "Hunter x Hunter",
+    "name": "Shizuku Murasaki",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Asta",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Yuno",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Noelle Silva",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Yami Sukehiro",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Julius Novachrono",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Luck Voltia",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Vanessa Enoteca",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Mereoleona Vermillion",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Mimosa Vermillion",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Zora Ideale",
+    "aliases": []
+  },
+  {
+    "series": "Black Clover",
+    "name": "Charmy Pappitson",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Natsu Dragneel",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Lucy Heartfilia",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Erza Scarlet",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Gray Fullbuster",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Wendy Marvell",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Happy",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Juvia Lockser",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Mirajane Strauss",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Laxus Dreyar",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Zeref Dragneel",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Mavis Vermillion",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Ultear Milkovich",
+    "aliases": []
+  },
+  {
+    "series": "Fairy Tail",
+    "name": "Yukino Agria",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Jotaro Kujo",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Dio Brando",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Joseph Joestar",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Jonathan Joestar",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Giorno Giovanna",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Jolyne Kujo",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Josuke Higashikata",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Yoshikage Kira",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Bruno Bucciarati",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Diavolo",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Rohan Kishibe",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Enrico Pucci",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Jean Pierre Polnareff",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Okuyasu Nijimura",
+    "aliases": []
+  },
+  {
+    "series": "JoJo's Bizarre Adventure",
+    "name": "Melone",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Ken Kaneki",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Touka Kirishima",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Juuzou Suzuya",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Rize Kamishiro",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Haise Sasaki",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Eto Yoshimura",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Kishou Arima",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Shuu Tsukiyama",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Ghoul",
+    "name": "Nishiki Nishio",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Yoichi Isagi",
+    "aliases": [
+      "Isagi Yoichi"
+    ]
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Seishiro Nagi",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Rin Itoshi",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Meguru Bachira",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Reo Mikage",
+    "aliases": [
+      "Mikage Reo"
+    ]
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Hyouma Chigiri",
+    "aliases": [
+      "Hyoma Chigiri"
+    ]
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Sae Itoshi",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Ryuusei Shidou",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Shouei Barou",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Rensuke Kunigami",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Gin Gagamaru",
+    "aliases": []
+  },
+  {
+    "series": "Blue Lock",
+    "name": "Ikki Niko",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Shouyou Hinata",
+    "aliases": [
+      "Hinata Shouyou"
+    ]
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Tobio Kageyama",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Kei Tsukishima",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Tooru Oikawa",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Tetsurou Kuroo",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Kozume Kenma",
+    "aliases": [
+      "Kenma Kozume"
+    ]
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Yu Nishinoya",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Wakatoshi Ushijima",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Tadashi Yamaguchi",
+    "aliases": []
+  },
+  {
+    "series": "Haikyuu!!",
+    "name": "Kiyoko Shimizu",
+    "aliases": []
+  },
+  {
+    "series": "Dandadan",
+    "name": "Momo Ayase",
+    "aliases": []
+  },
+  {
+    "series": "Dandadan",
+    "name": "Okarun",
+    "aliases": [
+      "Ken Takakura",
+      "Ken Tatakura"
+    ]
+  },
+  {
+    "series": "Dandadan",
+    "name": "Aira Shiratori",
+    "aliases": [
+      "Shiratori Aira"
+    ]
+  },
+  {
+    "series": "Dandadan",
+    "name": "Turbo Granny",
+    "aliases": []
+  },
+  {
+    "series": "Dandadan",
+    "name": "Seiko Ayase",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Anya Forger",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Loid Forger",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Yor Forger",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Bond Forger",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Damian Desmond",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Becky Blackbell",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Yuri Briar",
+    "aliases": []
+  },
+  {
+    "series": "Spy x Family",
+    "name": "Fiona Frost",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Kirito",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Asuna Yuuki",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Sinon",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Leafa",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Alice Zuberg",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Eugeo",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Yuuki Konno",
+    "aliases": [
+      "Konno Yuuki"
+    ]
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Yui",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Silica",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Quinella",
+    "aliases": []
+  },
+  {
+    "series": "Sword Art Online",
+    "name": "Lisbeth",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Emilia",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Rem",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Ram",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Subaru Natsuki",
+    "aliases": [
+      "Natsuki Subaru"
+    ]
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Echidna",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Beatrice",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Roswaal L. Mathers",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Puck",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Garfiel Tinsel",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Felix Argyle",
+    "aliases": []
+  },
+  {
+    "series": "Re:Zero",
+    "name": "Elsa Granhiert",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Raiden Shogun",
+    "aliases": [
+      "Raiden shogun"
+    ]
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Zhongli",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Venti",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Nahida",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Furina",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Hu Tao",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Yae Miko",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Xiao",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Paimon",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Klee",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Ganyu",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Arlecchino",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Neuvillette",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Kazuha Kaedehara",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Tartaglia",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Diluc",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Keqing",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Jean",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Albedo",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Ayaka Kamisato",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Wanderer",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Navia",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Yelan",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Shenhe",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Qiqi",
+    "aliases": []
+  },
+  {
+    "series": "Genshin Impact",
+    "name": "Yoimiya Naganohara",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "March 7th",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Kafka",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Firefly",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Silver Wolf",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Acheron",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Dan Heng",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Blade",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Bronya",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Himeko",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Jing Yuan",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Robin",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Sunday",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Ruan Mei",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Aventurine",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Sparkle",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Black Swan",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Welt",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Topaz",
+    "aliases": []
+  },
+  {
+    "series": "Honkai: Star Rail",
+    "name": "Castorice",
+    "aliases": []
+  },
+  {
+    "series": "Honkai Impact 3rd",
+    "name": "Kiana Kaslana",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Ellen Joe",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Nicole Demara",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Anby Demara",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Billy Kid",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Jane Doe",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Zhu Yuan",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Qingyi",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Burnice White",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Koleda Belobog",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Grace Howard",
+    "aliases": []
+  },
+  {
+    "series": "Zenless Zone Zero",
+    "name": "Alexandrina Sebastiane",
+    "aliases": []
+  },
+  {
+    "series": "Wuthering Waves",
+    "name": "Zani",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Jinx",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Vi",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Caitlyn Kiramman",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Ahri",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Yasuo",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Lux",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Miss Fortune",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Akali",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Seraphine",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Ekko",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Viktor",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Riven",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Zed",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Sona",
+    "aliases": []
+  },
+  {
+    "series": "League of Legends",
+    "name": "Ashe",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Frieren",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Fern",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Stark",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Himmel",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Übel",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Serie",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Heiter",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Eisen",
+    "aliases": []
+  },
+  {
+    "series": "Sousou no Frieren",
+    "name": "Kanne",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Aqua",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Kazuma Satou",
+    "aliases": [
+      "Satou Kazuma"
+    ]
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Megumin",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Darkness",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Wiz",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Yunyun",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Vanir",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Chomusuke",
+    "aliases": []
+  },
+  {
+    "series": "KonoSuba",
+    "name": "Iris Stylish Sword Belzerg",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Kiyotaka Ayanokouji",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Suzune Horikita",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Kei Karuizawa",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Arisu Sakayanagi",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Kakeru Ryuen",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Kikyou Kushida",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Honami Ichinose",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Hiyori Shiina",
+    "aliases": []
+  },
+  {
+    "series": "Classroom of the Elite",
+    "name": "Airi Sakura",
+    "aliases": []
+  },
+  {
+    "series": "The Eminence in Shadow",
+    "name": "Cid Kagenou",
+    "aliases": []
+  },
+  {
+    "series": "The Eminence in Shadow",
+    "name": "Delta",
+    "aliases": []
+  },
+  {
+    "series": "The Eminence in Shadow",
+    "name": "Beta",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Edward Elric",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Alphonse Elric",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Roy Mustang",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Riza Hawkeye",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Winry Rockbell",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Maes Hughes",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Scar",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "King Bradley",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Ling Yao",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Alex Louis Armstrong",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Olivier Mira Armstrong",
+    "aliases": []
+  },
+  {
+    "series": "Fullmetal Alchemist",
+    "name": "Lust",
+    "aliases": []
+  },
+  {
+    "series": "Code Geass",
+    "name": "Lelouch Lamperouge",
+    "aliases": [
+      "Lelouch vi Britannia"
+    ]
+  },
+  {
+    "series": "Code Geass",
+    "name": "C.C.",
+    "aliases": []
+  },
+  {
+    "series": "Code Geass",
+    "name": "Suzaku Kururugi",
+    "aliases": []
+  },
+  {
+    "series": "Code Geass",
+    "name": "Kallen Kozuki",
+    "aliases": []
+  },
+  {
+    "series": "Code Geass",
+    "name": "Shirley Fenette",
+    "aliases": []
+  },
+  {
+    "series": "Code Geass",
+    "name": "Villetta Nu",
+    "aliases": []
+  },
+  {
+    "series": "Code Geass",
+    "name": "Euphemia Li Britannia",
+    "aliases": [
+      "Euphemia li Britannia"
+    ]
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Meliodas",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Elizabeth Liones",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Ban",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "King",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Diane",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Gowther",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Merlin",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Escanor",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Zeldris",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Arthur Pendragon",
+    "aliases": []
+  },
+  {
+    "series": "The Seven Deadly Sins",
+    "name": "Jericho",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Ainz Ooal Gown",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Albedo",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Shalltear Bloodfallen",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Demiurge",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Cocytus",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Sebas Tian",
+    "aliases": []
+  },
+  {
+    "series": "Overlord",
+    "name": "Renner Theiere Chardelon Ryle Vaiself",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Artoria Pendragon",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Saber",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Saber Alter",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Gilgamesh",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Rin Tohsaka",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Sakura Matou",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Shirou Emiya",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Astolfo",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Jeanne d'Arc",
+    "aliases": [
+      "Jeanne D'arc"
+    ]
+  },
+  {
+    "series": "Fate",
+    "name": "Mash Kyrielight",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Ishtar",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Ereshkigal",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Medusa",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Mordred",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Merlin",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Ozymandias",
+    "aliases": []
+  },
+  {
+    "series": "Fate",
+    "name": "Illyasviel von Einzbern",
+    "aliases": [
+      "Illyasviel Von Einzbern"
+    ]
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Junko Enoshima",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Monokuma",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Makoto Naegi",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Kyouko Kirigiri",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Byakuya Togami",
+    "aliases": [
+      "Togami Byakuya"
+    ]
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Nagito Komaeda",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Chiaki Nanami",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Hajime Hinata",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Kokichi Ouma",
+    "aliases": [
+      "Ouma Kokichi"
+    ]
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Shuichi Saihara",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Kaede Akamatsu",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Celestia Ludenberg",
+    "aliases": []
+  },
+  {
+    "series": "Danganronpa",
+    "name": "Tsumugi Shirogane",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Yugi Muto",
+    "aliases": [
+      "Yugi Mutou"
+    ]
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Yami Yugi",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Seto Kaiba",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Joey Wheeler",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Maximillion Pegasus",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Mai Valentine",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Tea Gardner",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Jaden Yuki",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Yusei Fudo",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Alexis Rhodes",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Mokuba Kaiba",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Duke Devlin",
+    "aliases": []
+  },
+  {
+    "series": "Yu-Gi-Oh!",
+    "name": "Bastion Misawa",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Ash Ketchum",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Pikachu",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Misty",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Brock",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Gary",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Cynthia",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Nurse Joy",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Officer Jenny",
+    "aliases": []
+  },
+  {
+    "series": "Pokémon",
+    "name": "Marnie",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Agumon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Gabumon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Patamon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "WarGreymon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Greymon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "MetalGreymon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Omegamon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Leomon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Renamon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Guilmon",
+    "aliases": []
+  },
+  {
+    "series": "Digimon",
+    "name": "Angemon",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Optimus Prime",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Bumblebee",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Megatron",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Starscream",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Soundwave",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Shockwave",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Arcee",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Grimlock",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Ultra Magnus",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Jazz",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Ironhide",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Ratchet",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Optimus Primal",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Hot Rod",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Star Saber",
+    "aliases": []
+  },
+  {
+    "series": "Transformers",
+    "name": "Red Alert",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Sonic",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Tails",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Knuckles",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Shadow",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Amy Rose",
+    "aliases": [
+      "Amy"
+    ]
+  },
+  {
+    "series": "Sonic X",
+    "name": "Rouge the Bat",
+    "aliases": [
+      "Rouge"
+    ]
+  },
+  {
+    "series": "Sonic X",
+    "name": "Dr. Eggman",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Cream",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Blaze the Cat",
+    "aliases": []
+  },
+  {
+    "series": "Sonic X",
+    "name": "Espio the Chameleon",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Jin Kazama",
+    "aliases": [
+      "Jin"
+    ]
+  },
+  {
+    "series": "Tekken",
+    "name": "Mishima Kazuya",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Jun Kazama",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Nina Williams",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Paul Phoenix",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Marshall Law",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "King",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Ling Xiaoyu",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Yoshimitsu",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Eddy Gordo",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Asuka Kazama",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Devil Jin",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Feng Wei",
+    "aliases": []
+  },
+  {
+    "series": "Tekken",
+    "name": "Craig Marduk",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Ryu",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Ken Masters",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Chun-Li",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Cammy",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Guile",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Akuma",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Juri",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Blanka",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Zangief",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "E. Honda",
+    "aliases": []
+  },
+  {
+    "series": "Street Fighter",
+    "name": "Alex",
+    "aliases": []
+  },
+  {
+    "series": "The Promised Neverland",
+    "name": "Emma",
+    "aliases": []
+  },
+  {
+    "series": "The Promised Neverland",
+    "name": "Norman",
+    "aliases": []
+  },
+  {
+    "series": "The Promised Neverland",
+    "name": "Ray",
+    "aliases": []
+  },
+  {
+    "series": "The Promised Neverland",
+    "name": "Isabella",
+    "aliases": []
+  },
+  {
+    "series": "Mob Psycho 100",
+    "name": "Shigeo Kageyama",
+    "aliases": [
+      "Kageyama Shigeo"
+    ]
+  },
+  {
+    "series": "Mob Psycho 100",
+    "name": "Reigen Arataka",
+    "aliases": []
+  },
+  {
+    "series": "Mob Psycho 100",
+    "name": "Dimple",
+    "aliases": []
+  },
+  {
+    "series": "Mob Psycho 100",
+    "name": "Ritsu Kageyama",
+    "aliases": []
+  },
+  {
+    "series": "Mob Psycho 100",
+    "name": "Keiji Mogami",
+    "aliases": []
+  },
+  {
+    "series": "Mob Psycho 100",
+    "name": "Ryo Shimazaki",
+    "aliases": []
+  },
+  {
+    "series": "Vinland Saga",
+    "name": "Thorfinn",
+    "aliases": []
+  },
+  {
+    "series": "Vinland Saga",
+    "name": "Askeladd",
+    "aliases": []
+  },
+  {
+    "series": "Vinland Saga",
+    "name": "Canute",
+    "aliases": []
+  },
+  {
+    "series": "Vinland Saga",
+    "name": "Thorkell",
+    "aliases": []
+  },
+  {
+    "series": "Vinland Saga",
+    "name": "Thors Snorresson",
+    "aliases": []
+  },
+  {
+    "series": "Vinland Saga",
+    "name": "Einar",
+    "aliases": []
+  },
+  {
+    "series": "Berserk",
+    "name": "Guts",
+    "aliases": []
+  },
+  {
+    "series": "Berserk",
+    "name": "Griffith",
+    "aliases": []
+  },
+  {
+    "series": "Berserk",
+    "name": "Casca",
+    "aliases": []
+  },
+  {
+    "series": "Berserk",
+    "name": "Skull Knight",
+    "aliases": []
+  },
+  {
+    "series": "Berserk",
+    "name": "Zodd",
+    "aliases": []
+  },
+  {
+    "series": "Berserk",
+    "name": "Schierke",
+    "aliases": []
+  },
+  {
+    "series": "Kakegurui",
+    "name": "Mary Saotome",
+    "aliases": []
+  },
+  {
+    "series": "Kakegurui",
+    "name": "Yumeko Jabami",
+    "aliases": []
+  },
+  {
+    "series": "Kakegurui",
+    "name": "Kirari Momobami",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Kaguya Shinomiya",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Miyuki Shirogane",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Chika Fujiwara",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Ai Hayasaka",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Yu Ishigami",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Miko Iino",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Tsubame Koyasu",
+    "aliases": []
+  },
+  {
+    "series": "Kaguya-sama: Love is War",
+    "name": "Kei Shirogane",
+    "aliases": []
+  },
+  {
+    "series": "Oshi no Ko",
+    "name": "Ai Hoshino",
+    "aliases": []
+  },
+  {
+    "series": "Oshi no Ko",
+    "name": "Ruby Hoshino",
+    "aliases": []
+  },
+  {
+    "series": "Oshi no Ko",
+    "name": "Aquamarine Hoshino",
+    "aliases": []
+  },
+  {
+    "series": "Oshi no Ko",
+    "name": "Kana Arima",
+    "aliases": []
+  },
+  {
+    "series": "Oshi no Ko",
+    "name": "Akane Kurokawa",
+    "aliases": []
+  },
+  {
+    "series": "Oshi no Ko",
+    "name": "Mem-Cho",
+    "aliases": []
+  },
+  {
+    "series": "Mashle",
+    "name": "Mash Burnedead",
+    "aliases": []
+  },
+  {
+    "series": "Mashle",
+    "name": "Dot Barrett",
+    "aliases": []
+  },
+  {
+    "series": "Mashle",
+    "name": "Lance Crown",
+    "aliases": []
+  },
+  {
+    "series": "The Apothecary Diaries",
+    "name": "Maomao",
+    "aliases": []
+  },
+  {
+    "series": "The Apothecary Diaries",
+    "name": "Jinshi",
+    "aliases": []
+  },
+  {
+    "series": "The Apothecary Diaries",
+    "name": "Gyokuyou",
+    "aliases": []
+  },
+  {
+    "series": "The Apothecary Diaries",
+    "name": "Lihua",
+    "aliases": []
+  },
+  {
+    "series": "Blue Box",
+    "name": "Chinatsu Kano",
+    "aliases": []
+  },
+  {
+    "series": "Blue Box",
+    "name": "Hina Chonou",
+    "aliases": []
+  },
+  {
+    "series": "Blue Box",
+    "name": "Taiki Inomata",
+    "aliases": []
+  },
+  {
+    "series": "Sakamoto Days",
+    "name": "Sakamoto Taro",
+    "aliases": [
+      "Taro Sakamoto"
+    ]
+  },
+  {
+    "series": "Sakamoto Days",
+    "name": "Shin Asakura",
+    "aliases": []
+  },
+  {
+    "series": "Sakamoto Days",
+    "name": "Yoichi Nagumo",
+    "aliases": []
+  },
+  {
+    "series": "Sakamoto Days",
+    "name": "Osaragi",
+    "aliases": []
+  },
+  {
+    "series": "Sakamoto Days",
+    "name": "Lu Shaotang",
+    "aliases": []
+  },
+  {
+    "series": "Sakamoto Days",
+    "name": "Shishiba",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Senku Ishigami",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Kohaku",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Gen Asagiri",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Chrome",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Tsukasa Shishio",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Taiju Oki",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Ginro",
+    "aliases": []
+  },
+  {
+    "series": "Dr. Stone",
+    "name": "Hyoga",
+    "aliases": []
+  },
+  {
+    "series": "Food Wars!",
+    "name": "Soma Yukihira",
+    "aliases": []
+  },
+  {
+    "series": "Food Wars!",
+    "name": "Erina Nakiri",
+    "aliases": []
+  },
+  {
+    "series": "Food Wars!",
+    "name": "Akira Hayama",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Takemichi Hanagaki",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Manjiro Sano",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Ken Ryuguji",
+    "aliases": [
+      "Ken Ryuuguuji"
+    ]
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Keisuke Baji",
+    "aliases": [
+      "Baji Keisuke"
+    ]
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Chifuyu Matsuno",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Kazutora Hanemiya",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Izana Kurokawa",
+    "aliases": []
+  },
+  {
+    "series": "Tokyo Revengers",
+    "name": "Takashi Mitsuya",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Shinra Kusakabe",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Arthur Boyle",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Maki Oze",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Tamaki Kotatsu",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Benimaru Shinmon",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Sho Kusakabe",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Iris",
+    "aliases": []
+  },
+  {
+    "series": "Fire Force",
+    "name": "Haumea",
+    "aliases": []
+  },
+  {
+    "series": "Doraemon",
+    "name": "Doraemon",
+    "aliases": []
+  },
+  {
+    "series": "Doraemon",
+    "name": "Nobita Nobi",
+    "aliases": []
+  },
+  {
+    "series": "Doraemon",
+    "name": "Shizuka Minamoto",
+    "aliases": []
+  },
+  {
+    "series": "Doraemon",
+    "name": "Takeshi Gouda",
+    "aliases": []
+  },
+  {
+    "series": "Doraemon",
+    "name": "Suneo Honekawa",
+    "aliases": []
+  },
+  {
+    "series": "Doraemon",
+    "name": "Hidetoshi Dekisugi",
+    "aliases": []
+  },
+  {
+    "series": "Assassination Classroom",
+    "name": "Koro-sensei",
+    "aliases": []
+  },
+  {
+    "series": "Assassination Classroom",
+    "name": "Nagisa Shiota",
+    "aliases": []
+  },
+  {
+    "series": "Assassination Classroom",
+    "name": "Karma Akabane",
+    "aliases": []
+  },
+  {
+    "series": "Assassination Classroom",
+    "name": "Kaede Kayano",
+    "aliases": []
+  },
+  {
+    "series": "Assassination Classroom",
+    "name": "Irina Jelavić",
+    "aliases": [
+      "Irina Jelavic"
+    ]
+  },
+  {
+    "series": "Assassination Classroom",
+    "name": "Tadaomi Karasuma",
+    "aliases": []
+  },
+  {
+    "series": "Neon Genesis Evangelion",
+    "name": "Shinji Ikari",
+    "aliases": []
+  },
+  {
+    "series": "Neon Genesis Evangelion",
+    "name": "Rei Ayanami",
+    "aliases": []
+  },
+  {
+    "series": "Neon Genesis Evangelion",
+    "name": "Misato Katsuragi",
+    "aliases": []
+  },
+  {
+    "series": "Neon Genesis Evangelion",
+    "name": "Kaworu Nagisa",
+    "aliases": []
+  },
+  {
+    "series": "Neon Genesis Evangelion",
+    "name": "Gendo Ikari",
+    "aliases": []
+  },
+  {
+    "series": "Neon Genesis Evangelion",
+    "name": "Asuka Langley",
+    "aliases": [
+      "Asuka Langley Sohryu"
+    ]
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Aang",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Katara",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Sokka",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Toph Beifong",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Zuko",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Azula",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Iroh",
+    "aliases": []
+  },
+  {
+    "series": "Avatar: The Last Airbender",
+    "name": "Appa",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Korra",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Asami Sato",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Mako",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Bolin",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Tenzin",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Amon",
+    "aliases": []
+  },
+  {
+    "series": "Avatar The Legend of Korra",
+    "name": "Kuvira",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Osamu Dazai",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Atsushi Nakajima",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Chuuya Nakahara",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Ryuunosuke Akutagawa",
+    "aliases": [
+      "Ryunosuke Akutagawa"
+    ]
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Ranpo Edogawa",
+    "aliases": [
+      "Edogawa Ranpo"
+    ]
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Fyodor Dostoyevsky",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Nikolai Gogol",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Yukichi Fukuzawa",
+    "aliases": []
+  },
+  {
+    "series": "Bungou Stray Dogs",
+    "name": "Akiko Yosano",
+    "aliases": []
+  },
+  {
+    "series": "Mushoku Tensei",
+    "name": "Roxy Migurdia",
+    "aliases": []
+  },
+  {
+    "series": "Mushoku Tensei",
+    "name": "Rudeus Greyrat",
+    "aliases": []
+  },
+  {
+    "series": "Mushoku Tensei",
+    "name": "Sylphiette",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Akame",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Esdeath",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Leone",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Mine",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Tatsumi",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Najenda",
+    "aliases": []
+  },
+  {
+    "series": "Akame Ga Kill!",
+    "name": "Chelsea",
+    "aliases": []
+  },
+  {
+    "series": "The Rising of the Shield Hero",
+    "name": "Raphtalia",
+    "aliases": []
+  },
+  {
+    "series": "The Rising of the Shield Hero",
+    "name": "Naofumi Iwatani",
+    "aliases": []
+  },
+  {
+    "series": "The Rising of the Shield Hero",
+    "name": "Filo",
+    "aliases": []
+  },
+  {
+    "series": "DanMachi",
+    "name": "Bell Cranel",
+    "aliases": []
+  },
+  {
+    "series": "DanMachi",
+    "name": "Hestia",
+    "aliases": []
+  },
+  {
+    "series": "DanMachi",
+    "name": "Ais Wallenstein",
+    "aliases": []
+  },
+  {
+    "series": "DanMachi",
+    "name": "Ryuu Lion",
+    "aliases": []
+  },
+  {
+    "series": "DanMachi",
+    "name": "Freya",
+    "aliases": []
+  },
+  {
+    "series": "DanMachi",
+    "name": "Sanjouno Haruhime",
+    "aliases": [
+      "Haruhime Sanjouno"
+    ]
+  },
+  {
+    "series": "DanMachi",
+    "name": "Anya Fromel",
+    "aliases": []
+  },
+  {
+    "series": "Gintama",
+    "name": "Gintoki Sakata",
+    "aliases": []
+  },
+  {
+    "series": "Gintama",
+    "name": "Kagura",
+    "aliases": []
+  },
+  {
+    "series": "Gintama",
+    "name": "Shinpachi Shimura",
+    "aliases": [
+      "Shimura Shinpachi"
+    ]
+  },
+  {
+    "series": "Gintama",
+    "name": "Hijikata Toushirou",
+    "aliases": []
+  },
+  {
+    "series": "Gintama",
+    "name": "Okita Sougo",
+    "aliases": []
+  },
+  {
+    "series": "Gintama",
+    "name": "Katsura Kotarou",
+    "aliases": [
+      "Kotarou Katsura"
+    ]
+  },
+  {
+    "series": "Gintama",
+    "name": "Nobume Imai",
+    "aliases": []
+  },
+  {
+    "series": "Gintama",
+    "name": "Kamui",
+    "aliases": []
+  },
+  {
+    "series": "Monogatari Series",
+    "name": "Nadeko Sengoku",
+    "aliases": []
+  },
+  {
+    "series": "Monogatari Series",
+    "name": "Shinobu Oshino",
+    "aliases": []
+  },
+  {
+    "series": "Monogatari Series",
+    "name": "Yotsugi Ononoki",
+    "aliases": []
+  },
+  {
+    "series": "Miss Kobayashi's Dragon Maid",
+    "name": "Kanna Kamui",
+    "aliases": []
+  },
+  {
+    "series": "Miss Kobayashi's Dragon Maid",
+    "name": "Tohru",
+    "aliases": []
+  },
+  {
+    "series": "Miss Kobayashi's Dragon Maid",
+    "name": "Quetzalcoatl",
+    "aliases": []
+  },
+  {
+    "series": "My Teen Romantic Comedy SNAFU",
+    "name": "Yukino Yukinoshita",
+    "aliases": []
+  },
+  {
+    "series": "My Teen Romantic Comedy SNAFU",
+    "name": "Yui Yuigahama",
+    "aliases": [
+      "Yuigahama Yui"
+    ]
+  },
+  {
+    "series": "My Teen Romantic Comedy SNAFU",
+    "name": "Iroha Isshiki",
+    "aliases": []
+  },
+  {
+    "series": "Horimiya",
+    "name": "Kyouko Hori",
+    "aliases": []
+  },
+  {
+    "series": "Horimiya",
+    "name": "Izumi Miyamura",
+    "aliases": []
+  },
+  {
+    "series": "Horimiya",
+    "name": "Yuki Yoshikawa",
+    "aliases": []
+  },
+  {
+    "series": "Horimiya",
+    "name": "Tooru Ishikawa",
+    "aliases": []
+  },
+  {
+    "series": "Horimiya",
+    "name": "Remi Ayasaki",
+    "aliases": []
+  },
+  {
+    "series": "Your Lie in April",
+    "name": "Kaori Miyazono",
+    "aliases": []
+  },
+  {
+    "series": "Your Lie in April",
+    "name": "Kousei Arima",
+    "aliases": [
+      "Arima Kousei"
+    ]
+  },
+  {
+    "series": "Your Lie in April",
+    "name": "Tsubaki Sawabe",
+    "aliases": []
+  },
+  {
+    "series": "Your Lie in April",
+    "name": "Emi Igawa",
+    "aliases": []
+  },
+  {
+    "series": "Your Lie in April",
+    "name": "Watari Ryota",
+    "aliases": []
+  },
+  {
+    "series": "Bocchi the Rock!",
+    "name": "Hitori Gotou",
+    "aliases": []
+  },
+  {
+    "series": "Bocchi the Rock!",
+    "name": "Nijika Ijichi",
+    "aliases": []
+  },
+  {
+    "series": "Bocchi the Rock!",
+    "name": "Ikuyo Kita",
+    "aliases": []
+  },
+  {
+    "series": "Bocchi The Rock!",
+    "name": "Ryou Yamada",
+    "aliases": []
+  },
+  {
+    "series": "Bocchi the Rock!",
+    "name": "Kikuri Hiroi",
+    "aliases": []
+  },
+  {
+    "series": "Steins;Gate",
+    "name": "Rintaro Okabe",
+    "aliases": [
+      "Rintarou Okabe",
+      "Hououin Kyouma"
+    ]
+  },
+  {
+    "series": "Steins;Gate",
+    "name": "Kurisu Makise",
+    "aliases": []
+  },
+  {
+    "series": "Steins;Gate",
+    "name": "Mayuri Shiina",
+    "aliases": []
+  },
+  {
+    "series": "Steins;Gate",
+    "name": "Suzuha Amane",
+    "aliases": []
+  },
+  {
+    "series": "Steins;Gate",
+    "name": "Itaru Hashida",
+    "aliases": []
+  },
+  {
+    "series": "Steins;Gate",
+    "name": "Moeka Kiryuu",
+    "aliases": []
+  },
+  {
+    "series": "Violet Evergarden",
+    "name": "Violet Evergarden",
+    "aliases": []
+  },
+  {
+    "series": "Violet Evergarden",
+    "name": "Gilbert Bougainvillea",
+    "aliases": []
+  },
+  {
+    "series": "Gurren Lagann",
+    "name": "Simon",
+    "aliases": []
+  },
+  {
+    "series": "Gurren Lagann",
+    "name": "Kamina",
+    "aliases": []
+  },
+  {
+    "series": "Gurren Lagann",
+    "name": "Yoko Littner",
+    "aliases": []
+  },
+  {
+    "series": "Gurren Lagann",
+    "name": "Nia Teppelin",
+    "aliases": []
+  },
+  {
+    "series": "Tower of God",
+    "name": "Twenty-Fifth Baam",
+    "aliases": []
+  },
+  {
+    "series": "Tower of God",
+    "name": "Khun Aguero Agnis",
+    "aliases": []
+  },
+  {
+    "series": "Tower of God",
+    "name": "Rak Wraithraiser",
+    "aliases": []
+  },
+  {
+    "series": "Tower of God",
+    "name": "Androssi Zahard",
+    "aliases": []
+  },
+  {
+    "series": "Tower of God",
+    "name": "Rachel",
+    "aliases": []
+  },
+  {
+    "series": "K-On!",
+    "name": "Yui Hirasawa",
+    "aliases": []
+  },
+  {
+    "series": "K-On!",
+    "name": "Mio Akiyama",
+    "aliases": []
+  },
+  {
+    "series": "K-On!",
+    "name": "Tsumugi Kotobuki",
+    "aliases": []
+  },
+  {
+    "series": "Yu Yu Hakusho",
+    "name": "Yusuke Urameshi",
+    "aliases": []
+  },
+  {
+    "series": "Yu Yu Hakusho",
+    "name": "Hiei",
+    "aliases": []
+  },
+  {
+    "series": "Yu Yu Hakusho",
+    "name": "Kurama",
+    "aliases": []
+  },
+  {
+    "series": "Yu Yu Hakusho",
+    "name": "Kazuma Kuwabara",
+    "aliases": []
+  },
+  {
+    "series": "Yu Yu Hakusho",
+    "name": "Genkai",
+    "aliases": []
+  },
+  {
+    "series": "Magi",
+    "name": "Judar",
+    "aliases": []
+  },
+  {
+    "series": "Magi",
+    "name": "Hakuryuu Ren",
+    "aliases": []
+  },
+  {
+    "series": "Magi",
+    "name": "Scheherazade",
+    "aliases": []
+  },
+  {
+    "series": "Saint Seiya",
+    "name": "Gemini Saga",
+    "aliases": []
+  },
+  {
+    "series": "Saint Seiya",
+    "name": "Saori Kido",
+    "aliases": []
+  },
+  {
+    "series": "Saint Seiya",
+    "name": "Virgo Shaka",
+    "aliases": []
+  },
+  {
+    "series": "Kaiju No. 8",
+    "name": "Kafka Hibino",
+    "aliases": []
+  },
+  {
+    "series": "Kaiju No. 8",
+    "name": "Mina Ashiro",
+    "aliases": []
+  },
+  {
+    "series": "Kaiju No. 8",
+    "name": "Reno Ichikawa",
+    "aliases": []
+  },
+  {
+    "series": "Kaiju No. 8",
+    "name": "Kikoru Shinomiya",
+    "aliases": []
+  },
+  {
+    "series": "Kaiju No. 8",
+    "name": "Soshiro Hoshina",
+    "aliases": []
+  },
+  {
+    "series": "Devil May Cry",
+    "name": "Dante Sparda",
+    "aliases": []
+  },
+  {
+    "series": "Devil May Cry",
+    "name": "Trish",
+    "aliases": []
+  },
+  {
+    "series": "Devil May Cry",
+    "name": "Mary Ann Arkham",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Ren Amamiya",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Ann Takamaki",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Ryuji Sakamoto",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Makoto Niijima",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Futaba Sakura",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Morgana",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Goro Akechi",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Aigis",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Yu Narukami",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Tae Takemi",
+    "aliases": []
+  },
+  {
+    "series": "Persona",
+    "name": "Haru Okumura",
+    "aliases": []
+  },
+  {
+    "series": "Vocaloid",
+    "name": "Hatsune Miku",
+    "aliases": [
+      "Miku Hatsune"
+    ]
+  },
+  {
+    "series": "Vocaloid",
+    "name": "Kagamine Rin",
+    "aliases": []
+  },
+  {
+    "series": "Vocaloid",
+    "name": "Kagamine Len",
+    "aliases": []
+  },
+  {
+    "series": "Vocaloid",
+    "name": "Megurine Luka",
+    "aliases": [
+      "Luka Megurine"
+    ]
+  },
+  {
+    "series": "Vocaloid",
+    "name": "KAITO",
+    "aliases": [
+      "Kaito"
+    ]
+  },
+  {
+    "series": "Vocaloid",
+    "name": "MEIKO",
+    "aliases": [
+      "Meiko"
+    ]
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Rimuru Tempest",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Benimaru",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Shion",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Shuna",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Veldora Tempest",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Milim Nava",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Diablo",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Gobta",
+    "aliases": []
+  },
+  {
+    "series": "Tensei shitara Slime Datta Ken",
+    "name": "Souka",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Edelgard",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Dimitri",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Claude",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Corrin",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Ike",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Marth",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Chrom",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Robin",
+    "aliases": []
+  },
+  {
+    "series": "Fire Emblem",
+    "name": "Lucina",
+    "aliases": []
+  },
+  {
+    "series": "Record of Ragnarok",
+    "name": "Kojiro Sasaki",
+    "aliases": []
+  },
+  {
+    "series": "Record of Ragnarok",
+    "name": "Adam",
+    "aliases": []
+  },
+  {
+    "series": "Record of Ragnarok",
+    "name": "Buddha",
+    "aliases": []
+  },
+  {
+    "series": "Komi Can't Communicate",
+    "name": "Shouko Komi",
+    "aliases": [
+      "Komi Shouko"
+    ]
+  },
+  {
+    "series": "Komi Can't Communicate",
+    "name": "Najimi Osana",
+    "aliases": []
+  },
+  {
+    "series": "Darling in the Franxx",
+    "name": "Zero Two",
+    "aliases": []
+  },
+  {
+    "series": "My Dress-Up Darling",
+    "name": "Marin Kitagawa",
+    "aliases": []
+  },
+  {
+    "series": "My Dress-Up Darling",
+    "name": "Wakana Gojou",
+    "aliases": []
+  },
+  {
+    "series": "My Dress-Up Darling",
+    "name": "Sajuna Inui",
+    "aliases": []
+  },
+  {
+    "series": "A Certain Series",
+    "name": "Mikoto Misaka",
+    "aliases": [
+      "Misaka Mikoto"
+    ]
+  },
+  {
+    "series": "A Certain Series",
+    "name": "Uiharu Kazari",
+    "aliases": [
+      "Kazari Uiharu"
+    ]
+  },
+  {
+    "series": "A Certain Series",
+    "name": "Rakko Yumiya",
+    "aliases": []
+  },
+  {
+    "series": "Yo Kai Watch",
+    "name": "Jibanyan",
+    "aliases": []
+  },
+  {
+    "series": "Yo Kai Watch",
+    "name": "Whisper",
+    "aliases": []
+  },
+  {
+    "series": "Yo Kai Watch",
+    "name": "Komasan",
+    "aliases": []
+  },
+  {
+    "series": "Yo Kai Watch",
+    "name": "Kyubi",
+    "aliases": []
+  },
+  {
+    "series": "Yo Kai Watch",
+    "name": "Venoct",
+    "aliases": []
+  },
+  {
+    "series": "The Quintessential Quintuplets",
+    "name": "Ichika Nakano",
+    "aliases": []
+  },
+  {
+    "series": "The Quintessential Quintuplets",
+    "name": "Nino Nakano",
+    "aliases": []
+  },
+  {
+    "series": "The Quintessential Quintuplets",
+    "name": "Miku Nakano",
+    "aliases": []
+  },
+  {
+    "series": "The Quintessential Quintuplets",
+    "name": "Yotsuba Nakano",
+    "aliases": []
+  },
+  {
+    "series": "The Quintessential Quintuplets",
+    "name": "Itsuki Nakano",
+    "aliases": []
+  },
+  {
+    "series": "The Quintessential Quintuplets",
+    "name": "Fuutarou Uesugi",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Tetsuya Kuroko",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Taiga Kagami",
+    "aliases": [
+      "Kagami Taiga"
+    ]
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Daiki Aomine",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Seijuro Akashi",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Shintaro Midorima",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Ryota Kise",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Atsushi Murasakibara",
+    "aliases": []
+  },
+  {
+    "series": "Kuroko no Basket",
+    "name": "Kise Ryouta",
+    "aliases": []
+  },
+  {
+    "series": "Death Parade",
+    "name": "Decim",
+    "aliases": []
+  },
+  {
+    "series": "Death Parade",
+    "name": "Clavis",
+    "aliases": []
+  },
+  {
+    "series": "Death Parade",
+    "name": "Oculus",
+    "aliases": []
+  },
+  {
+    "series": "Ao no Exorcist",
+    "name": "Yukio Okumura",
+    "aliases": []
+  },
+  {
+    "series": "Ao no Exorcist",
+    "name": "Rin Okumura",
+    "aliases": []
+  },
+  {
+    "series": "Ao no Exorcist",
+    "name": "Shura Kirigakure",
+    "aliases": []
+  },
+  {
+    "series": "Owari no Seraph",
+    "name": "Shinoa Hiiragi",
+    "aliases": []
+  },
+  {
+    "series": "Owari no Seraph",
+    "name": "Krul Tepes",
+    "aliases": []
+  },
+  {
+    "series": "Owari no Seraph",
+    "name": "Asuramaru",
+    "aliases": []
+  },
+  {
+    "series": "Katekyo Hitman Reborn",
+    "name": "Tsunayoshi Sawada",
+    "aliases": []
+  },
+  {
+    "series": "Katekyo Hitman Reborn",
+    "name": "Mukuro Rokudou",
+    "aliases": []
+  },
+  {
+    "series": "Katekyo Hitman Reborn",
+    "name": "Xanxus",
+    "aliases": []
+  },
+  {
+    "series": "Made in Abyss",
+    "name": "Prushka",
+    "aliases": []
+  },
+  {
+    "series": "Made in Abyss",
+    "name": "Nanachi",
+    "aliases": []
+  },
+  {
+    "series": "Made in Abyss",
+    "name": "Marulk",
+    "aliases": []
+  },
+  {
+    "series": "Toilet-Bound Hanako-kun",
+    "name": "Yugi Tsukasa",
+    "aliases": [
+      "Tsukasa Yugi"
+    ]
+  },
+  {
+    "series": "Toilet-Bound Hanako-kun",
+    "name": "Akane Aoi",
+    "aliases": []
+  },
+  {
+    "series": "Toilet-Bound Hanako-kun",
+    "name": "Yako",
+    "aliases": []
+  },
+  {
+    "series": "Noragami",
+    "name": "Yato",
+    "aliases": []
+  },
+  {
+    "series": "Noragami",
+    "name": "Yukine",
+    "aliases": []
+  },
+  {
+    "series": "Noragami",
+    "name": "Kofuku",
+    "aliases": []
+  },
+  {
+    "series": "Spirited Away",
+    "name": "Chihiro Ogino",
+    "aliases": []
+  },
+  {
+    "series": "Spirited Away",
+    "name": "Lin",
+    "aliases": []
+  },
+  {
+    "series": "Spirited Away",
+    "name": "Nigihayami Kohaku Nushi",
+    "aliases": []
+  },
+  {
+    "series": "Howl no Ugoku Shiro",
+    "name": "Howl",
+    "aliases": []
+  },
+  {
+    "series": "Howl no Ugoku Shiro",
+    "name": "Sophie Hatter",
+    "aliases": []
+  },
+  {
+    "series": "Howl no Ugoku Shiro",
+    "name": "Markl",
+    "aliases": []
+  },
+  {
+    "series": "Kiki's Delivery Service",
+    "name": "Kiki",
+    "aliases": []
+  },
+  {
+    "series": "Kiki's Delivery Service",
+    "name": "Ursula",
+    "aliases": []
+  },
+  {
+    "series": "My Neighbor Totoro",
+    "name": "Mei Kusakabe",
+    "aliases": []
+  },
+  {
+    "series": "My Neighbor Totoro",
+    "name": "Totoro",
+    "aliases": []
+  },
+  {
+    "series": "Castlevania",
+    "name": "Carmilla",
+    "aliases": []
+  },
+  {
+    "series": "Castlevania",
+    "name": "Alucard",
+    "aliases": []
+  },
+  {
+    "series": "Castlevania",
+    "name": "Sypha Belnades",
+    "aliases": []
+  },
+  {
+    "series": "DC Comics",
+    "name": "Batman",
+    "aliases": []
+  },
+  {
+    "series": "DC Comics",
+    "name": "Harley Quinn",
+    "aliases": []
+  },
+  {
+    "series": "DC Comics",
+    "name": "Nightwing",
+    "aliases": []
+  },
+  {
+    "series": "DC Comics",
+    "name": "Peacemaker",
+    "aliases": []
+  },
+  {
+    "series": "Date A Live",
+    "name": "Tohka Yatogami",
+    "aliases": []
+  },
+  {
+    "series": "Date A Live",
+    "name": "Kurumi Tokisaki",
+    "aliases": []
+  },
+  {
+    "series": "Date A Live",
+    "name": "Origami Tobiichi",
+    "aliases": []
+  },
+  {
+    "series": "Date A Live",
+    "name": "Kotori Itsuka",
+    "aliases": [
+      "Itsuka Kotori"
+    ]
+  },
+  {
+    "series": "Date A Live",
+    "name": "Miku Izayoi",
+    "aliases": []
+  },
+  {
+    "series": "Date A Live",
+    "name": "Yoshino Himekawa",
+    "aliases": []
+  },
+  {
+    "series": "High School DxD",
+    "name": "Rias Gremory",
+    "aliases": []
+  },
+  {
+    "series": "High School DxD",
+    "name": "Issei Hyoudou",
+    "aliases": []
+  },
+  {
+    "series": "High School DxD",
+    "name": "Akeno Himejima",
+    "aliases": []
+  },
+  {
+    "series": "High School DxD",
+    "name": "Asia Argento",
+    "aliases": []
+  },
+  {
+    "series": "High School DxD",
+    "name": "Rossweisse",
+    "aliases": []
+  },
+  {
+    "series": "High School DxD",
+    "name": "Irina Shidou",
+    "aliases": []
+  },
+  {
+    "series": "Nisekoi",
+    "name": "Chitoge Kirisaki",
+    "aliases": []
+  },
+  {
+    "series": "Nisekoi",
+    "name": "Kosaki Onodera",
+    "aliases": []
+  },
+  {
+    "series": "Nisekoi",
+    "name": "Raku Ichijou",
+    "aliases": []
+  },
+  {
+    "series": "No Game No Life",
+    "name": "Shiro",
+    "aliases": []
+  },
+  {
+    "series": "No Game No Life",
+    "name": "Jibril",
+    "aliases": []
+  },
+  {
+    "series": "No Game No Life",
+    "name": "Sora",
+    "aliases": []
+  },
+  {
+    "series": "Higurashi no Naku Koro ni",
+    "name": "Rika Furude",
+    "aliases": []
+  },
+  {
+    "series": "Higurashi no Naku Koro ni",
+    "name": "Rena Ryuuguu",
+    "aliases": []
+  },
+  {
+    "series": "Higurashi no Naku Koro ni",
+    "name": "Shion Sonozaki",
+    "aliases": []
+  },
+  {
+    "series": "Inazuma Eleven",
+    "name": "Hiroto Kira",
+    "aliases": []
+  },
+  {
+    "series": "Beyblade",
+    "name": "Ryuga",
+    "aliases": []
+  },
+  {
+    "series": "Beyblade",
+    "name": "Kyoya Tategami",
+    "aliases": []
+  }
+]

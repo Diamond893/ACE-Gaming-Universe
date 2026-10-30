@@ -1,0 +1,48 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+.agu-whatsapp-auth/
+**/*whatsapp-auth*/
+
+data/agu.db
+data/agu.db-shm
+data/agu.db-wal
+data/backups/
+data/reports/
+data/broadcasts/
+data.zip
+
+*.log
+.DS_Store
+
+# Private project data
+data/
+*.zip
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# WhatsApp authentication backups
+.agu-whatsapp-auth-backup*/
+**/session-*.json
+**/tctoken-*.json
+
+# Other authentication folders
+.auth/
+.baileys/
+auth_info/
